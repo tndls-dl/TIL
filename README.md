@@ -2,9 +2,8 @@
 
 ## 🐥 Today I Learned! 🌈
 
-### 🌼 Hello, this is my TIL garden 🌱
+## 🌼 Hello, this is my TIL garden 🌱
+
 
 ### 🗂️ Folder Structure
 > git
-
-Today I Learned
