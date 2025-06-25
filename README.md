@@ -1,7 +1,7 @@
 # TIL
 
 ## 🐥 Today I Learned! 🌈  
-🌼 Hello, this is my TIL garden 🌱
+🌼 이곳은 나의 TIL garden ! 🌱
 
 ### 🗂️ Folder Structure
 > git
