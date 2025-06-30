@@ -149,6 +149,7 @@ $$
 ```
 
 **결과** :
+
 ![이미지](https://temple17.github.io/assets/images/statistics/sample%20mean.png)
 
 
