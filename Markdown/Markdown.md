@@ -149,9 +149,7 @@ $$
 ```
 
 **결과** :
-$$
-\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i
-$$
+![이미지](https://temple17.github.io/assets/images/statistics/sample%20mean.png)
 
 
 ---
