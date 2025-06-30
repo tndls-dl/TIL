@@ -6,12 +6,8 @@
 
 ## 📂 Folder Structure
 
-🐧 [Linux](./linux)
-
-#️⃣ [Markdown](./markdown)
-
-🗃️ [Git](./git)
-
-📑 [Spreadsheets](./spreadsheets)
-
-🧩 [SQL](./SQL)
+- 🐧 [Linux](./linux)
+- #️⃣ [Markdown](./markdown)
+- 🗃️ [Git](./git)
+- 📑 [Spreadsheets](./spreadsheets)
+- 🧩 [SQL](./SQL)
