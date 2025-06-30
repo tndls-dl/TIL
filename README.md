@@ -6,7 +6,7 @@
 
 ## 📂 Folder Structure
 
-- 🐧 [Linux](./linux)
+- 🐧 [Linux](./Linux/Linux.md)
 - #️⃣ [Markdown](./markdown)
 - 🗃️ [Git](./git)
 - 📑 [Spreadsheets](./spreadsheets)
