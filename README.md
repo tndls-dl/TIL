@@ -1,7 +1,13 @@
-# TIL
+# 🐥 Today I Learned! 🌈
 
-## 🐥 Today I Learned! 🌈  
-🌼 이곳은 나의 TIL garden ! 🌱
+🌸 이곳은 나의 TIL garden! 🌱
 
-### 🗂️ Folder Structure
-> git
+---
+
+## 📂 Folder Structure
+
+- 📂 [Git](./git)
+- 🐧 [Linux](./linux)
+- ✍️ [Markdown](./markdown)
+- 📊 [Spreadsheets](./spreadsheets)
+- 🗄️ [SQL](./SQL)
