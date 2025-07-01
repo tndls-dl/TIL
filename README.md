@@ -9,5 +9,5 @@
 - 🐧 [Linux](./Linux/Linux.md)
 - #️⃣ [Markdown](./Markdown/Markdown.md)
 - 🗃️ [Git](./git/git.md)
-- 📑 [Spreadsheets](./spreadsheets/Spreadsheets.md)
+- 📑 [Spreadsheets](./Spreadsheets/Spreadsheets.md)
 - 🧩 [SQL](./SQL)
