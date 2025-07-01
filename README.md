@@ -8,6 +8,6 @@
 
 - 🐧 [Linux](./Linux/Linux.md)
 - #️⃣ [Markdown](./Markdown/Markdown.md)
-- 🗃️ [Git](./git)
+- 🗃️ [Git](./git/git.md)
 - 📑 [Spreadsheets](./spreadsheets)
 - 🧩 [SQL](./SQL)
