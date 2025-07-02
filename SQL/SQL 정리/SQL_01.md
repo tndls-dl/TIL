@@ -289,7 +289,17 @@ FROM member;
 | DATE_SUB() | 날짜 빼기 | DATE_SUB(birth, INTERVAL 10 MONTH) |
 | YEAR(), MONTH(), DAY() | 날짜 요소 추출 | YEAR(birth), MONTH(birth) |
 | DAYOFWEEK(), DAYNAME() | 요일 번호/이름 | DAYOFWEEK(birth), DAYNAME(birth) |
-| %Y, %m, %c, %d, %H, %i | 형식 기호 | %Y(연도), %m(월), %c(월-한자리), %d(일), %H(시), %i(분) |
+| %Y, %m, %d, %H, %i | 형식 기호 | %Y(연도), %m(월), %d(일), %H(시), %i(분) |
+
+### 📌 시/분/초 형식 기호
+
+| 기호 | 의미 | 예시 |
+| --- | --- | --- |
+| %H | 24시간제 시 (00–23) | 14 |
+| %h | 12시간제 시 (01–12) | 02 |
+| %i | 분 (00–59) | 05 |
+| %S | 초 (00–59) | 09 |
+| %p | AM/PM | AM, PM |
 
 ### 📌 `%m` vs `%c` 비교 정리
 
