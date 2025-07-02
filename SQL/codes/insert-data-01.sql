@@ -27,8 +27,12 @@ CREATE TABLE sales (
     FOREIGN KEY (customer_id) REFERENCES customers(customer_id)
 );
 
+DESC customers;
+DESC sales;
+
 -- 4. 데이터 확인
 SELECT * FROM customers;
 SELECT COUNT(*) AS 매출건수 FROM sales;
+SELECT * FROM sales;
 
 
