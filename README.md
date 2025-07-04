@@ -16,5 +16,9 @@
 - ---
 - 🧩 [SQL](./SQL/SQL%20정리/)
 
-    - 📅 WEEK 01_SQL (DAY01 - DAY05)
-        - 1️⃣ [SQL_01](./SQL/SQL%20정리/SQL_01.md)
+    - 📅 [WEEK_01_SQL](./SQL/SQL%20정리/SQL_WEEK_01/)
+        - 1️⃣ [SQL_DAY_01](./SQL/SQL%20정리/SQL_WEEK_01/SQL_DAY_01.md)
+        - 2️⃣ [SQL_DAY_02](./SQL/SQL%20정리/SQL_WEEK_01/SQL_DAY_02.md)
+        - 3️⃣ [SQL_DAY_03](./SQL/SQL%20정리/SQL_WEEK_01/SQL_DAY_03.md)
+        - 4️⃣ [SQL_DAY_04](./SQL/SQL%20정리/SQL_WEEK_01/SQL_DAY_04.md)
+        - 5️⃣ [SQL_DAY_05](./SQL/SQL%20정리/SQL_WEEK_01/SQL_DAY_05.md)
