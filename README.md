@@ -11,4 +11,4 @@
 - 🗃️ [Git](./git/git.md)
 - 📑 [Spreadsheets](./Spreadsheets/Spreadsheets.md)
 - 🧩 [SQL](./SQL/SQL%20정리/)
-    - [SQL_01] (./SQL/SQL%20정리/SQL_01.md)
+    - [SQL_01](./SQL/SQL%20정리/SQL_01.md)
