@@ -1,4 +1,4 @@
--- 18-JOIN.sql
+-- 18-join.sql
 
 USE lecture;
 
