@@ -126,7 +126,7 @@ WHERE c.customer_id IS NULL;
 | `RIGHT JOIN` | 오른쪽 기준, 왼쪽 없으면 NULL | ➡️ ⚪️ |
 | `FULL OUTER JOIN` | 양쪽 다 포함 | ⚪️ ∪ ⚪️ |
 
-
+![이미지](../images/screenshot8.png)
 
 ### 🗣️ **텍스트로 그린 비유**
 
