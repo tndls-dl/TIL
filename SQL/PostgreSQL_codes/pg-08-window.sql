@@ -63,7 +63,7 @@ SELECT
 	총구매액,
 	ROW_NUMBER() OVER (ORDER BY 총구매액 DESC) AS 순위
 FROM customer_july
-ORDER BY 순위 LIMIT 3;
+ORDER BY 순위 LIMIT 10;
 
 WITH july_sales AS(
 	SELECT

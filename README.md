@@ -24,3 +24,4 @@
     - 📅 [WEEK_02_SQL](./SQL/SQL%20정리/SQL_WEEK_02/)
         - 6️⃣ [SQL_DAY_06](./SQL/SQL%20정리/SQL_WEEK_02/SQL_DAY_06.md)
         - 7️⃣ [SQL_DAY_07](./SQL/SQL%20정리/SQL_WEEK_02/SQL_DAY_07.md)
+        - 8️⃣ [SQL_DAY_08](./SQL/SQL%20정리/SQL_WEEK_02/SQL_DAY_08.md)
