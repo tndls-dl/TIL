@@ -79,3 +79,27 @@ SELECT
 FROM orders
 WHERE order_date BETWEEN '2024-07-01' AND '2024-07-02';
 
+
+-- 각 지역에서 총구매액 1위 고객 => ROW_NUMBER() 로 숫자를 매기고, 이 컬럼의 값이 1인 사람
+-- [지역, 고객이름, 총구매액]
+WITH region_customer AS (
+SELECT
+	region AS 지역명,
+	customer_id AS 고객id,
+	SUM(amount) AS 총구매액
+FROM orders
+GROUP BY region, customer_id
+)
+SELECT
+	지역명,
+	고객id,
+	총구매액
+FROM (
+	SELECT
+		지역명,
+		고객id,
+		총구매액,
+		ROW_NUMBER() OVER(PARTITION BY 지역명 ORDER BY 총구매액 DESC) AS 총구매액순위
+	FROM region_customer
+) AS 총구매액1위
+WHERE 총구매액순위 = 1;

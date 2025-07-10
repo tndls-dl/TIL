@@ -210,26 +210,6 @@ SELECT
 FROM orders;
 ```
 
-### 👑 **지역별 매출 1위 고객**
-
-```sql
-WITH region_sales AS (
-  SELECT
-    region,
-    customer_id,
-    SUM(amount) AS total_sales
-  FROM orders
-  GROUP BY region, customer_id
-)
-SELECT *
-FROM (
-  SELECT *,
-    ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_sales DESC) AS rn
-  FROM region_sales
-) t
-WHERE rn = 1;
-```
-
 ---
 
 ## 🗺️ 언제 뭘 쓸까? 실무 상황별 정리
