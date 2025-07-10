@@ -1,3 +1,5 @@
+# 🧩 SQL_02
+
 ## 📚 DAY 08
 
 ## 🧱 CTE (Common Table Expression)

@@ -1,3 +1,5 @@
+# 🧩 SQL_02
+
 ## 📚 DAY 07
 
 ## 🔍 MySQL EXPLAIN 기본 사용법
