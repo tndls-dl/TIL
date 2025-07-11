@@ -1,4 +1,5 @@
--- 고객 음악 취향 클러스터링
+-- 3. 고객 음악 취향 클러스터링
+-- ROCK 장르의 선호도가 제일 높음.
 
 WITH customer_genre AS (
 	SELECT

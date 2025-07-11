@@ -1,4 +1,4 @@
--- 음악 시장 트렌드 예측 (장르별 성장률 분석)
+-- 2. 음악 시장 트렌드 예측 (장르별 성장률 분석)
 
 WITH monthly_genre_sales AS (
 	SELECT

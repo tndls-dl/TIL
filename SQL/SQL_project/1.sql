@@ -1,10 +1,10 @@
--- 데이터 품질 및 이상 탐지 이상 거래 탐지
+-- 1. 데이터 품질 및 이상 탐지 이상 거래 탐지
 
 -- 비정상적으로 높은/낮은 단가, 짧은 시간 내 반복 구매 등 이상 패턴 탐색
 -- 데이터 누락/오류 사례 분석
 -- 주소, 이메일, 가격 등 주요 필드의 NULL/이상값 빈도 및 원인 파악
 
--- 1. 비정상적으로 높은/낮은 단가
+-- 1) 비정상적으로 높은/낮은 단가
 -- 없음 (양호)
 SELECT
 	invoice_id,
@@ -23,7 +23,7 @@ SELECT
 FROM invoice_items
 WHERE unit_price > 10;
 
--- 2. 데이터 누락/오류 사례 분석 (NULL 값 탐색)
+-- 2) 데이터 누락/오류 사례 분석 (NULL 값 탐색)
 SELECT
 	customer_id,
 	first_name,
@@ -71,6 +71,7 @@ SELECT
 	email
 FROM customers
 WHERE email IS NOT NULL AND (TRIM(email) = '' OR TRIM(email) = '-' OR TRIM(email) = 'N/A');
+
 -- phone_이상값이 나오지 않음 (양호)
 SELECT
 	customer_id,
@@ -78,6 +79,7 @@ SELECT
 	phone
 FROM customers
 WHERE phone IS NOT NULL AND (TRIM(phone) = '' OR TRIM(phone) = '-' OR TRIM(phone) = 'N/A');
+
 -- fax_이상값이 나오지 않음 (양호)
 SELECT
 	customer_id,
@@ -85,6 +87,7 @@ SELECT
 	fax
 FROM customers
 WHERE fax IS NOT NULL AND (TRIM(fax) = '' OR TRIM(fax) = '-' OR TRIM(fax) = 'N/A');
+
 -- company_이상값이 나오지 않음 (양호)
 SELECT
 	customer_id,
@@ -92,6 +95,7 @@ SELECT
 	company
 FROM customers
 WHERE company IS NOT NULL AND (TRIM(company) = '' OR TRIM(company) = '-' OR TRIM(company) = 'N/A');
+
 -- state_이상값이 나오지 않음 (양호)
 SELECT
 	customer_id,
@@ -101,7 +105,7 @@ FROM customers
 WHERE state IS NOT NULL AND (TRIM(state) = '' OR TRIM(state) = '-' OR TRIM(state) = 'N/A');
 
 
--- 3. 이상 거래 탐지: 짧은 시간 내 반복 구매
+-- 3) 이상 거래 탐지: 짧은 시간 내 반복 구매
 -- 같은 날짜에 2번 이상 구매한 이력 없음.
 SELECT
 	customer_id,
