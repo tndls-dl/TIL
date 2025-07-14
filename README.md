@@ -26,3 +26,7 @@
         - 7️⃣ [SQL_DAY_07](./SQL/SQL%20정리/SQL_WEEK_02/SQL_DAY_07.md)
         - 8️⃣ [SQL_DAY_08](./SQL/SQL%20정리/SQL_WEEK_02/SQL_DAY_08.md)
         - 9️⃣ [SQL_DAY_09](./SQL/SQL%20정리/SQL_WEEK_02/SQL_DAY_09.md)
+- ---
+- 🖥️ [Python](./Python/)
+    - 1️⃣ [Python_01](./Python/01_variable_data_type.ipynb)
+    - 2️⃣ [Python_02](./Python/02_operators.ipynb)
