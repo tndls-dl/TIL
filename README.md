@@ -1,6 +1,7 @@
 # 🐥 Today I Learned! 🌈
 
 🌸 이곳은 나의 TIL garden! 🌱
+매일 기록하며 성장하는 학습 정원 🌿
 
 ---
 
@@ -35,3 +36,5 @@
     - 📅 [WEEK_Python](./Python/Python%20정리/)
         - 1️⃣ [Python_DAY_01](./Python/Python%20정리/Python_DAY_01.md)
 
+
+[🔝 Back to top](#-today-i-learned-)
