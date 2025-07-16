@@ -34,7 +34,7 @@
         - 1️⃣ [Python_01](./Python/Python_class/01_variable_data_type.ipynb)
         - 2️⃣ [Python_02](./Python/Python_class/02_operators.ipynb)
         - 3️⃣ [Python_03](./Python/Python_class/03_containers.ipynb)
-        - 4️⃣ [Python_0](./Python/Python_class/04_control_flow.ipynb)
+        - 4️⃣ [Python_04](./Python/Python_class/04_control_flow.ipynb)
     - 📅 [WEEK_Python](./Python/Python%20정리/)
         - 1️⃣ [Python_DAY_01](./Python/Python%20정리/Python_DAY_01.md)
 
