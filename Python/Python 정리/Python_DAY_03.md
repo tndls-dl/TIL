@@ -206,14 +206,6 @@ print(total)
 
 ```
 
-### **🔢 for + if: 홀수만 출력**
-
-```python
-for num in range(1, 31):
-    if num % 2:
-        print(num)
-```
-
 ---
 
 ## 🛑 반복 제어 (`break`, `continue`, `pass`)
