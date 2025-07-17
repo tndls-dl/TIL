@@ -37,6 +37,7 @@
         - 4️⃣ [Python_04](./Python/Python_class/04_control_flow.ipynb)
     - 📅 [WEEK_Python](./Python/Python%20정리/)
         - 1️⃣ [Python_DAY_01](./Python/Python%20정리/Python_DAY_01.md)
+        - 2️⃣ [Python_DAY_02](./Python/Python%20정리/Python_DAY_02.md)
 
 
 
