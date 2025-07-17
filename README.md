@@ -38,6 +38,7 @@
     - 📅 [WEEK_Python](./Python/Python%20정리/)
         - 1️⃣ [Python_DAY_01](./Python/Python%20정리/Python_DAY_01.md)
         - 2️⃣ [Python_DAY_02](./Python/Python%20정리/Python_DAY_02.md)
+        - 3️⃣ [Python_DAY_03](./Python/Python%20정리/Python_DAY_03.md)
 
 
 
