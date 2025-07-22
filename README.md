@@ -23,7 +23,7 @@
         - 3️⃣ [SQL_DAY_03](./SQL/SQL%20정리/SQL_WEEK_01/SQL_DAY_03.md)
         - 4️⃣ [SQL_DAY_04](./SQL/SQL%20정리/SQL_WEEK_01/SQL_DAY_04.md)
         - 5️⃣ [SQL_DAY_05](./SQL/SQL%20정리/SQL_WEEK_01/SQL_DAY_05.md)
-        
+
     - 📅 [WEEK_02_SQL](./SQL/SQL%20정리/SQL_WEEK_02/)
         - 6️⃣ [SQL_DAY_06](./SQL/SQL%20정리/SQL_WEEK_02/SQL_DAY_06.md)
         - 7️⃣ [SQL_DAY_07](./SQL/SQL%20정리/SQL_WEEK_02/SQL_DAY_07.md)
@@ -45,6 +45,7 @@
         - 3️⃣ [Python_DAY_03](./Python/Python%20정리/Python_DAY_03.md)
         - 4️⃣ [Python_DAY_04](./Python/Python%20정리/Python_DAY_04.md)
         - 5️⃣ [Python_DAY_05](./Python/Python%20정리/Python_DAY_05.md)
+        - 6️⃣ [Python_DAY_06](./Python/Python%20정리/Python_DAY_06.md)
 
 
 
