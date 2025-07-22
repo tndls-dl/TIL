@@ -35,12 +35,15 @@
         - 2️⃣ [Python_02](./Python/Python_class/02_operators.ipynb)
         - 3️⃣ [Python_03](./Python/Python_class/03_containers.ipynb)
         - 4️⃣ [Python_04](./Python/Python_class/04_control_flow.ipynb)
+        - 5️⃣ [Python_05](./Python/Python_class/05_function.ipynb)
         - 6️⃣ [Python_06](./Python/Python_class/06_data_methods.ipynb)
+        
     - 📅 [WEEK_Python](./Python/Python%20정리/)
         - 1️⃣ [Python_DAY_01](./Python/Python%20정리/Python_DAY_01.md)
         - 2️⃣ [Python_DAY_02](./Python/Python%20정리/Python_DAY_02.md)
         - 3️⃣ [Python_DAY_03](./Python/Python%20정리/Python_DAY_03.md)
         - 4️⃣ [Python_DAY_04](./Python/Python%20정리/Python_DAY_04.md)
+        - 5️⃣ [Python_DAY_05](./Python/Python%20정리/Python_DAY_05.md)
 
 
 
