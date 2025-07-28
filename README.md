@@ -38,6 +38,7 @@
         - 4️⃣ [Python_04](./Python/Python_class/04_control_flow.ipynb)
         - 5️⃣ [Python_05](./Python/Python_class/05_function.ipynb)
         - 6️⃣ [Python_06](./Python/Python_class/06_data_methods.ipynb)
+        - 7️⃣ [Python_07](./Python/Python_class/07_OOP.ipynb)
 
     - 📅 [WEEK_Python](./Python/Python%20정리/)
         - 1️⃣ [Python_DAY_01](./Python/Python%20정리/Python_DAY_01.md)
