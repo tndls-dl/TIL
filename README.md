@@ -47,8 +47,9 @@
         - 4️⃣ [Python_DAY_04](./Python/Python%20정리/Python_DAY_04.md)
         - 5️⃣ [Python_DAY_05](./Python/Python%20정리/Python_DAY_05.md)
         - 6️⃣ [Python_DAY_06](./Python/Python%20정리/Python_DAY_06.md)
-
-
+---
+- 🔬 [데이터분석](./데이터분석/)
+    - 1️⃣ [01_numpy](./데이터분석/01_numpy.ipynb)
 
 
 
