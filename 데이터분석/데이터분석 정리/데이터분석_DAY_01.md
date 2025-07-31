@@ -187,4 +187,4 @@ arr = np.array([[1, 2, 3],
 > `np.max(arr, axis=0)`은 **각 열의 최대값**을 구함.
 > 
 
-![image.png](../images/axis.png)
+![image.png](/images/axis.png)
