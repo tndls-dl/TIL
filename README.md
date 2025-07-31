@@ -49,7 +49,7 @@
         - 6️⃣ [Python_DAY_06](./Python/Python%20정리/Python_DAY_06.md)
 ---
 - 🔬 [데이터분석](./데이터분석/)
-    - ✍️ [데이터분석_class](./데이터분석/데이터분석_class/)
+    - ✍️ [데이터분석_class](./데이터분석/)
         - 1️⃣ [01_numpy](./데이터분석/데이터분석_class/01_numpy.ipynb)
         - 2️⃣ [02_pandas](./데이터분석/데이터분석_class/02_pandas.ipynb)
 
