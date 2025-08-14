@@ -59,6 +59,7 @@
         - 4️⃣ [04_data_cleaning](./데이터분석/04_data_cleaning.ipynb)
         - 4️⃣ [04_kpi](./데이터분석/04_kpi.ipynb)
         - 5️⃣ [05_eda](./데이터분석/05_eda.ipynb)
+        - 6️⃣ [06_corr](./데이터분석/06_corr.ipynb)
 
     - 📅 [WEEK_Numpy & Pandas](./데이터분석/Numpy%20&%20Pandas/)
         - 1️⃣ [Numpy&Pandas_DAY_01](./데이터분석/Numpy%20&%20Pandas/Numpy&Pandas_DAY_01.md)
