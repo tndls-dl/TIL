@@ -79,8 +79,9 @@
 - 🤖 [Machine Learning](./Machine%20Learning/)
     - ✍️ [Machine Learning_class](./Machine%20Learning/Machine%20Learning_class/)
         - 1️⃣ [01_knn_class](./Machine%20Learning/Machine%20Learning_class/01_knn_class.ipynb)
-        
+
     - 📅 [WEEK_Machine Learning](./Machine%20Learning/Machine%20Learning%20정리/)
+        - 1️⃣ [Machine_Learning_DAY_01](./Machine%20Learning/Machine%20Learning%20정리/Machine_Learning_DAY_01.md)
     
 
 
