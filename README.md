@@ -75,6 +75,12 @@
         - 3️⃣ [데이터분석_DAY_03](./데이터분석/데이터분석%20정리/데이터분석_DAY_03.md)
         - 4️⃣ [데이터분석_DAY_04](./데이터분석/데이터분석%20정리/데이터분석_DAY_04.md)
         - 5️⃣ [데이터분석_DAY_05](./데이터분석/데이터분석%20정리/데이터분석_DAY_05.md)
+---
+- 🤖 [Machine Learning](./Machine%20Learning/)
+    - ✍️ [Machine Learning_class](./Machine%20Learning/Machine%20Learning_class/)
+        - 1️⃣ [01_knn_class](./Machine%20Learning/Machine%20Learning_class/01_knn_class.ipynb)
+        
+    - 📅 [WEEK_Machine Learning](./Machine%20Learning/Machine%20Learning%20정리/)
     
 
 
