@@ -14,7 +14,9 @@
 - ---
 - 🗃️ [Git](./git/git.md)
 - ---
-- 📑 [Spreadsheets](./Spreadsheets/Spreadsheets.md)
+- 📑 [Spreadsheets](./Spreadsheets/)
+    - ✍️ [Spreadsheets](./Spreadsheets/Spreadsheets.md)
+    - 👩‍💻 [Spreadsheets_practice](./Spreadsheets/Spreadsheets_실습.md) 👩‍🔬💻🧪
 - ---
 - 🧩 [SQL](./SQL/SQL%20정리/)
     - 📅 [WEEK_01_SQL](./SQL/SQL%20정리/SQL_WEEK_01/)
@@ -23,6 +25,8 @@
         - 3️⃣ [SQL_DAY_03](./SQL/SQL%20정리/SQL_WEEK_01/SQL_DAY_03.md)
         - 4️⃣ [SQL_DAY_04](./SQL/SQL%20정리/SQL_WEEK_01/SQL_DAY_04.md)
         - 5️⃣ [SQL_DAY_05](./SQL/SQL%20정리/SQL_WEEK_01/SQL_DAY_05.md)
+
+    - 👩‍💻 [SQL_practice](./SQL/SQL_project/)
 
     - 📅 [WEEK_02_SQL](./SQL/SQL%20정리/SQL_WEEK_02/)
         - 6️⃣ [SQL_DAY_06](./SQL/SQL%20정리/SQL_WEEK_02/SQL_DAY_06.md)
@@ -40,6 +44,12 @@
         - 6️⃣ [Python_06](./Python/Python_class/06_data_methods.ipynb)
         - 7️⃣ [Python_07](./Python/Python_class/07_OOP.ipynb)
 
+    - 👩‍💻 [python_practice](./Python/Python_practice/)
+        - [part_01](./Python/Python_practice/part1.ipynb) 👩‍🔬
+        - [part_02](./Python/Python_practice/part2.ipynb) 💻
+        - [part_03](./Python/Python_practice/part3.ipynb) 🧪
+
+
     - 📅 [WEEK_Python](./Python/Python%20정리/)
         - 1️⃣ [Python_DAY_01](./Python/Python%20정리/Python_DAY_01.md)
         - 2️⃣ [Python_DAY_02](./Python/Python%20정리/Python_DAY_02.md)
@@ -49,8 +59,7 @@
         - 6️⃣ [Python_DAY_06](./Python/Python%20정리/Python_DAY_06.md)
 ---
 - 🔬 [Numpy & Pandas | 데이터분석](./데이터분석/)
-    - ✍️ [데이터분석_class](./데이터분석/)
-        - [titanic](./데이터분석/titanic.ipynb) 🚢🧊🌊
+    - ✍️ [데이터분석_class](./데이터분석/데이터분석%20class/)
         - 1️⃣ [01_numpy](./데이터분석/01_numpy.ipynb)
         - 2️⃣-1️⃣ [02_pandas1](./데이터분석/02_pandas1.ipynb)
         - 2️⃣-2️⃣ [02_pandas2](./데이터분석/02_pandas2.ipynb)
@@ -60,6 +69,10 @@
         - 4️⃣ [04_kpi](./데이터분석/04_kpi.ipynb)
         - 5️⃣ [05_eda](./데이터분석/05_eda.ipynb)
         - 6️⃣ [06_corr](./데이터분석/06_corr.ipynb)
+
+    - 👩‍💻 [데이터분석_practice](./데이터분석/실습/)
+        - [실습](./데이터분석/실습/실습.ipynb) 👩‍🔬💻🧪
+        - [titanic](./데이터분석/실습/titanic.ipynb) 🚢🧊🌊 
 
     - 📅 [WEEK_Numpy & Pandas](./데이터분석/Numpy%20&%20Pandas/)
         - 1️⃣ [Numpy&Pandas_DAY_01](./데이터분석/Numpy%20&%20Pandas/Numpy&Pandas_DAY_01.md)
@@ -83,6 +96,8 @@
         - 2️⃣ [02_regression](./Machine%20Learning/Machine%20Learning_class/02_regression.ipynb)
         - 3️⃣ [03_feature_engineering](./Machine%20Learning/Machine%20Learning_class/03_feature_engineering.ipynb)
         - 4️⃣ [04_logistic_regression](./Machine%20Learning/Machine%20Learning_class/04_logistic_regression.ipynb)
+
+    - 👩‍💻 [Machine Learning_practice](./Machine%20Learning/Machine%20Learning_class/redwine-quality.ipynb)
 
     - 📅 [WEEK_Machine Learning](./Machine%20Learning/Machine%20Learning%20정리/)
         - 1️⃣ [Machine_Learning_DAY_01](./Machine%20Learning/Machine%20Learning%20정리/Machine_Learning_DAY_01.md)
