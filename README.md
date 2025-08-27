@@ -81,6 +81,7 @@
         - 1️⃣ [01_knn_class](./Machine%20Learning/Machine%20Learning_class/01_knn_class.ipynb)
         - 2️⃣ [02_regression](./Machine%20Learning/Machine%20Learning_class/02_regression.ipynb)
         - 3️⃣ [03_feature_engineering](./Machine%20Learning/Machine%20Learning_class/03_feature_engineering.ipynb)
+        - 4️⃣ [04_logistic_regression](./Machine%20Learning/Machine%20Learning_class/04_logistic_regression.ipynb)
 
     - 📅 [WEEK_Machine Learning](./Machine%20Learning/Machine%20Learning%20정리/)
         - 1️⃣ [Machine_Learning_DAY_01](./Machine%20Learning/Machine%20Learning%20정리/Machine_Learning_DAY_01.md)
