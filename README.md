@@ -96,8 +96,11 @@
         - 2️⃣ [02_regression](./Machine%20Learning/Machine%20Learning_class/02_regression.ipynb)
         - 3️⃣ [03_feature_engineering](./Machine%20Learning/Machine%20Learning_class/03_feature_engineering.ipynb)
         - 4️⃣ [04_logistic_regression](./Machine%20Learning/Machine%20Learning_class/04_logistic_regression.ipynb)
+        - 5️⃣ [05_decision_tree](./Machine%20Learning/Machine%20Learning_class/04_logistic_regression.ipynb)
 
-    - 👩‍💻 [Machine Learning_practice](./Machine%20Learning/Machine%20Learning_class/redwine-quality.ipynb) 🍇🍷
+    - 👩‍💻 [Machine Learning_practice](./Machine%20Learning/Machine%20Learning_practice/)
+        - [redwine_quality](./Machine%20Learning/Machine%20Learning_practice/redwine_quality.ipynb) 🍇🍷
+        - [titanic](./Machine%20Learning/Machine%20Learning_practice/titanic.ipynb) 🚢🧊🌊
 
     - 📅 [WEEK_Machine Learning](./Machine%20Learning/Machine%20Learning%20정리/)
         - 1️⃣ [Machine_Learning_DAY_01](./Machine%20Learning/Machine%20Learning%20정리/Machine_Learning_DAY_01.md)
