@@ -106,6 +106,8 @@
     - 📅 [WEEK_Machine Learning](./Machine%20Learning/Machine%20Learning%20정리/)
         - 1️⃣ [Machine_Learning_DAY_01](./Machine%20Learning/Machine%20Learning%20정리/Machine_Learning_DAY_01.md)
         - 2️⃣ [Machine_Learning_DAY_02](./Machine%20Learning/Machine%20Learning%20정리/Machine_Learning_DAY_02.md)
+        - 3️⃣ [Machine_Learning_DAY_03](./Machine%20Learning/Machine%20Learning%20정리/Machine_Learning_DAY_03.md)
+        - 4️⃣ [Machine_Learning_DAY_04](./Machine%20Learning/Machine%20Learning%20정리/Machine_Learning_DAY_04.md)
 
 
 
