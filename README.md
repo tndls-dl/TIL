@@ -97,6 +97,7 @@
         - 3️⃣ [03_feature_engineering](./Machine%20Learning/Machine%20Learning_class/03_feature_engineering.ipynb)
         - 4️⃣ [04_logistic_regression](./Machine%20Learning/Machine%20Learning_class/04_logistic_regression.ipynb)
         - 5️⃣ [05_decision_tree](./Machine%20Learning/Machine%20Learning_class/04_logistic_regression.ipynb)
+        - 6️⃣ [06_ensemble](./Machine%20Learning/Machine%20Learning_class/06_ensemble.ipynb)
 
     - 👩‍💻 [Machine Learning_practice](./Machine%20Learning/Machine%20Learning_practice/)
         - [redwine_quality](./Machine%20Learning/Machine%20Learning_practice/redwine_quality.ipynb) 🍇🍷
