@@ -6,6 +6,25 @@
 
 ---
 
+## 🧪 Project Highlights
+
+### 🚢 Titanic
+- **EDA/전처리 (데이터분석_practice/titanic.ipynb)**  
+  결측치 처리(KNN/평균), 기초 통계 및 시각화 중심  
+- **모델링 (Machine Learning_practice/titanic.ipynb)**  
+  Logistic Regression, Decision Tree 비교, 교차검증 적용  
+
+### 🍷 Red Wine Quality
+- UCI 와인 데이터 → 품질 점수 예측  
+- 과적합 줄이기(규제, 스케일링), 교차검증 활용  
+
+### 📊 Spreadsheets 실습
+- 구글 스프레드시트로 **이상값 탐지(Z-Score)**  
+- 이상값 처리 방법 비교 (삭제, 평균/중간값 대체, 윈저화)【Spreadsheets/Spreadsheets_실습.md】
+
+
+---
+
 ## 📂 Folder Structure
 
 - 🐧 [Linux](./Linux/Linux.md)
