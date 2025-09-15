@@ -137,7 +137,10 @@
         - 5️⃣ [05_websearch](./LLM-agent/langchain_class/05_websearch.ipynb)
         - 6️⃣ [06_rag](./LLM-agent/langchain_class/06_rag.ipynb)
 
-
+    - 📅 [WEEK_Langchain](./LLM-agent/langchain%20정리/)
+        - 1️⃣ [Langchain_DAY_01](./LLM-agent/langchain%20정리/Langchain_DAY_01.md)
+        - 2️⃣ [Langchain_DAY_02](./LLM-agent/langchain%20정리/Langchain_DAY_02.md)
+        - 3️⃣ [Langchain_DAY_03](./LLM-agent/langchain%20정리/Langchain_DAY_03.md)
 
 
     - ✍️ [Langgraph_class](./LLM-agent/langgraph_class/)
@@ -150,7 +153,10 @@
         - 1️⃣3️⃣ [13_SQL_conn](./LLM-agent/langgraph_class/13_SQL_conn.ipynb)
         - 1️⃣4️⃣ [14_summarization](./LLM-agent/langgraph_class/14_summarization.ipynb)
         - 1️⃣5️⃣ [15_code_interpreter](./LLM-agent/langgraph_class/15_code_interpreter.ipynb)
-        
+
+    - 📅 [WEEK_Langgraph](./LLM-agent/langgraph%20정리/)    
+
+    
 
 ---
 
