@@ -155,7 +155,11 @@
         - 1️⃣5️⃣ [15_code_interpreter](./LLM-agent/langgraph_class/15_code_interpreter.ipynb)
 
     - 📅 [WEEK_Langgraph](./LLM-agent/langgraph%20정리/)    
-
+        - 1️⃣ [Langgraph_DAY_01](./LLM-agent/langgraph%20정리/Langgraph_DAY_01.md)
+        - 2️⃣ [Langgraph_DAY_02](./LLM-agent/langgraph%20정리/Langgraph_DAY_02.md)
+        - 3️⃣ [Langgraph_DAY_03](./LLM-agent/langgraph%20정리/Langgraph_DAY_03.md)
+        - 4️⃣ [Langgraph_DAY_04](./LLM-agent/langgraph%20정리/Langgraph_DAY_04.md)
+        - 5️⃣ [Langgraph_DAY_05](./LLM-agent/langgraph%20정리/Langgraph_DAY_05.md)
     
 
 ---
